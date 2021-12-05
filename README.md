@@ -4,4 +4,4 @@
 
 # Requirement
 - numpy, pandas, time, cos, sin, atan, pi from math module
-- Sochi_centerline.csv should be in ./maps/centerline.csv
+- Sochi_centerline.csv should be ./maps/Sochi_centerline.csv
